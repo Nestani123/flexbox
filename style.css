@@ -1,0 +1,150 @@
+
+header{
+    margin-top: 80px;
+    margin-left: 310px;
+    width: 716px;
+    height: Hug (92px);
+    gap: 4px;
+}
+.team{
+font-family: Inter;
+font-size: 16px;
+font-weight: 600;
+line-height: 26px;
+letter-spacing: 0px;
+text-align: center;
+color:#282828;
+
+}
+.team-large{
+    margin-top: 4px;
+font-family: Inter;
+font-size: 54px;
+font-weight: 600;
+line-height: 62px;
+letter-spacing: -1px;
+text-align: center;
+color: #282828;
+
+}
+.team-text{ 
+margin-top: 4px;
+margin-left: 288px;
+width: 760px;
+height: 70px;
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 35px;
+letter-spacing: 0px;
+text-align: center;
+color: #5F6980;
+}
+h2{
+font: bold;
+color: #282828;
+font-family: Inter;
+font-size: 18px;
+font-weight: 600;
+line-height: 30px;
+letter-spacing: 0px;
+text-align: left;
+}
+.position{
+font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0px;
+text-align: left;
+color: #3E3E59;
+}
+.description{
+font-family: Inter;
+width: 278px;
+font-size: 14px;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0px;
+text-align: left;
+color: #5F6980;
+}
+.row{
+    width: Fixed (1,336px);
+height: Hug (908px);
+gap: 48px;
+    margin-left: 52px;
+    margin-right: 52px;
+display: flex;
+margin-top: 48px;
+
+}
+.personal_story{
+    display: inline-block;
+}
+.soc-net{
+    width: Fill (278px);
+height: Hug (36px);
+gap: 24px;
+margin-top: 24px;
+}
+.about{
+    width: 318.05px;
+height: 221px;
+
+}
+span{
+font-family: Inter;
+font-size: 20px;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+color: #1E1E1E;
+;
+}
+ul{
+    list-style-type: none;
+    font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0em;
+text-align: left;
+color: #535353;
+margin-top: 71px;
+}
+li{
+    margin-top: 15px;
+}
+.button{
+    width: Hug (80px);
+height: Hug (45px);
+padding: 14px, 16px, 14px, 16px;
+gap: 10px;
+color: #054A68;
+
+}
+.about, .ending{
+display: inline-block;
+margin-top: 108px;
+}
+iframe{
+    display: block;
+}
+.footer-main{
+    width: 1654px;
+    height: 512px;
+    display: flex;
+
+    margin-left: 57px;
+    margin-right: 77px;
+    justify-content: space-between;
+}
+footer{
+width: 1654px;
+height: 512px;
+padding: 108px, 184px, 181px, 164px;
+background-color: #53535354;
+
+}
